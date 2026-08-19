@@ -3,6 +3,8 @@
 BomberClone is an open-source clone of the classic Bomberman game. This is the
 ArcaOS / OS/2 port based on upstream version 0.11.9.1.
 
+![BomberClone ScreenShot](/doc/BomberClone.png)
+
 ## Version
 
 **0.11.9.1 – ArcaOS Release 1**
